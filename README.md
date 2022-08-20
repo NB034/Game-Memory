@@ -10,5 +10,5 @@
 
 * Управление происходит на стрелки.
 
-![Menu]()
-![Game]()
+![Menu](https://user-images.githubusercontent.com/104451273/185738437-af0fc161-6788-401e-9057-bcbae25e2e7c.png)
+![Game](https://user-images.githubusercontent.com/104451273/185738438-a100d03a-81ba-43fc-af87-d856cb281f48.png)
